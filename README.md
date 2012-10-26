@@ -3,9 +3,9 @@ AddressBookLibrary
 
 API's for Address Book Library supports the following functions:
 
-Create an empty address book.
-Add an entry.  An entry consists of a name, postal address, phone number, email address, and a note.
-Remove an entry.
-Search for an entry by any of the contact properties.
-Save the address book to a file.
-Read the address book from a file.
+1)Create an empty address book.
+2)Add an entry.  An entry consists of a name, postal address, phone number, email address, and a note.
+3)Remove an entry.
+4)Search for an entry by any of the contact properties.
+5)Save the address book to a file.
+6)Read the address book from a file.
